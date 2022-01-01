@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_com_mongodb",
+  "version": "1.0.0",
+  "description": "Uma api usando o bando de dados mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipeA/nodejs_com_mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipeA/nodejs_com_mongodb/issues"
+  },
+  "homepage": "https://github.com/lipeA/nodejs_com_mongodb#readme",
+  "dependencies": {
+    "mongodb": "^4.2.2"
+  }
+}
